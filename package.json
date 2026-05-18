@@ -4,7 +4,8 @@
   "main": "worker.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node ./worker.ts"
+    "start": "ts-node ./worker.ts",
+    "start:worker": "ts-node ./worker.ts"
   },
   "repository": {
     "type": "git",
